@@ -1,0 +1,15 @@
+﻿# .gitignore
+
+# .NET files
+bin/
+obj/
+
+# User-specific files
+.vs/
+.idea/
+
+# Node.js dependencies
+node_modules/
+
+# Visual Studio for Mac
+.vscode/
